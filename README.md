@@ -31,8 +31,3 @@ A full-stack enterprise web application and AI-powered analytics agent that tran
 ### Prerequisite Software
 - Python 3.10+
 - Git
-
-### 1. Clone Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/AI_Data_Analyst_Agent.git](https://github.com/YOUR_USERNAME/AI_Data_Analyst_Agent.git)
-cd AI_Data_Analyst_Agent
